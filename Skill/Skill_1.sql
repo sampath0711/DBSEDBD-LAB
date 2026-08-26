@@ -1,6 +1,6 @@
 create database if not exists b2520090005;
 
-use b2520090123;
+use b2520090005;
 
 CREATE TABLE bank_transactions (
     txn_id INT PRIMARY KEY,
