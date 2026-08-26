@@ -1,6 +1,6 @@
 create database if not exists a2520090005
 
-use a2520090123;
+use a2520090005;
 
 CREATE TABLE student_marks (
     roll_no INT PRIMARY KEY,
